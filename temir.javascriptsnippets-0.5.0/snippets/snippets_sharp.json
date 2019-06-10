@@ -1,0 +1,7 @@
+{
+    "test":{
+        "prefix": "test",
+        "body": "var str = Console.WriteLine()",
+        "description": "c# snippets"
+    }
+}
