@@ -2,7 +2,7 @@
 	"name": "quokka-vscode",
 	"displayName": "Quokka.js",
 	"description": "Live Scratchpad for JavaScript.",
-	"version": "1.0.226",
+	"version": "1.0.227",
 	"publisher": "WallabyJs",
 	"homepage": "http://quokkajs.com",
 	"bugs": {

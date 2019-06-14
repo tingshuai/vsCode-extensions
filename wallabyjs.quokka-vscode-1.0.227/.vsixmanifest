@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="quokka-vscode" Version="1.0.226" Publisher="WallabyJs"/>
+    <Identity Language="en-US" Id="quokka-vscode" Version="1.0.227" Publisher="WallabyJs"/>
     <DisplayName>Quokka.js</DisplayName>
     <Description xml:space="preserve">Live Scratchpad for JavaScript.</Description>
     <Tags>scraptchpad,playground,JavaScript,TypeScript,REPL,keybindings,wallaby-output,javascript</Tags>

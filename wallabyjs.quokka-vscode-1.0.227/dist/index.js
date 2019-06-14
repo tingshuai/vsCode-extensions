@@ -1,5 +1,5 @@
 /*
- * quokka-vscode - v1.0.226
+ * quokka-vscode - v1.0.227
  * Copyright (c) 2017-2019 WallabyJs - All Rights Reserved.
  */
 

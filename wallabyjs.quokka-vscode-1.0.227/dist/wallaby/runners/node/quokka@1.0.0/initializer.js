@@ -1,5 +1,5 @@
 /*
- * Wallaby.js - v1.0.696
+ * Wallaby.js - v1.0.697
  * https://wallabyjs.com
  * Copyright (c) 2014-2019 Wallaby.js - All Rights Reserved.
  *
